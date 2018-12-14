@@ -1,0 +1,6 @@
+[ INFO ] [2018-08-12 12:31:53] [ LOGID: ] [server.ServerMain.main(ServerMain.java:37)] compute service server on port :9998
+[ INFO ] [2018-08-12 12:31:59] [ LOGID: ] [server.ThriftTestImpl.getComputeResult(ThriftTestImpl.java:21)] get compute result begin. [x:1] [y:2] [type:MUL]
+[ INFO ] [2018-08-12 12:31:59] [ LOGID: ] [server.ThriftTestImpl.getComputeResult(ThriftTestImpl.java:46)] get compute result end. [errno:0] cost:[0ms]
+[ INFO ] [2018-08-12 12:32:18] [ LOGID: ] [server.ThriftTestImpl.getComputeResult(ThriftTestImpl.java:21)] get compute result begin. [x:1] [y:2] [type:MUL]
+[ INFO ] [2018-08-12 12:32:18] [ LOGID: ] [server.ThriftTestImpl.getComputeResult(ThriftTestImpl.java:46)] get compute result end. [errno:0] cost:[0ms]
+[ INFO ] [2018-08-12 12:36:16] [ LOGID: ] [server.ServerMain.main(ServerMain.java:37)] compute service server on port :9998
