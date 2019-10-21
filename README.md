@@ -25,7 +25,7 @@
 - [性能基础之CPU、物理核、逻辑核概念与关系](https://blog.csdn.net/zuozewei/article/details/85251890)
 - [性能基础之理解Linux系统平均负载和CPU使用率](https://blog.csdn.net/zuozewei/article/details/86483503)
 
-#####性能闲谈系列：
+##### 性能闲谈系列：
 - [浅谈window桌面GUI技术及图像渲染性能测试实践](https://blog.csdn.net/zuozewei/article/details/82656926)
 
 #### JMeter系列：
