@@ -1,7 +1,7 @@
 settings:
   env:
     BASE_DIR: /home/taurus/taurus_container_scripts  # 脚本目录
-  artifacts-dir: /home/taurus/taurus_container_artifacts/simple1/%Y-%m-%d_%H-%M  # path where to save artifacts, default is %Y-%m-%d_%H-%M-%S.%f
+  artifacts-dir: /home/taurus/taurus_container_artifacts/my_scenario/%Y-%m-%d_%H-%M  # path where to save artifacts, default is %Y-%m-%d_%H-%M-%S.%f
   
 scenarios:
   my_scenario:
